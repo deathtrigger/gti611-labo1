@@ -1,0 +1,11 @@
+# démarrage du service
+cd ~ 
+./asterisk-bin/sbin/asterisk 
+
+# branchez-vous  à la console de  asterisk
+./asterisk-bin/sbin/asterisk -rvvv
+
+
+# Les fichiers de configurations (sip.conf, extensions.conf…) à modifier sont dans le répertoire 
+ asterisk-bin/etc/asterisk/ 
+
