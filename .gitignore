@@ -1,5 +1,5 @@
-/include/*
-/lib/*
-/sbin/*
-/share/*
-/var/*
+/asterisk-bin/include/*
+/asterisk-bin/lib/*
+/asterisk-bin/sbin/*
+/asterisk-bin/share/*
+/asterisk-bin/var/*
